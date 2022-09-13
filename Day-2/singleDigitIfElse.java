@@ -19,7 +19,7 @@ public class singleDigitIfElse
         }if ( d == 4 )
         {
             System.out.println("four");
-        }if( e == 5 )
+        }else( e == 5 )
         {
             System.out.println("five");
         }
